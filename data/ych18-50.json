@@ -1,0 +1,9 @@
+{
+  "contest": "NFTX contest",
+  "handle": "ych18",
+  "address": "0x02435fb305D2BBA609E044279C50498Abe279380",
+  "risk": "2",
+  "title": "No access control on assignFees() function in NFTXVaultFactoryUpgradeable contract",
+  "issueId": 50,
+  "issueUrl": "https://github.com/code-423n4/2021-12-nftx-findings/issues/50"
+}
