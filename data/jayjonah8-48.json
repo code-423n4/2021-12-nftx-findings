@@ -1,0 +1,9 @@
+{
+  "contest": "NFTX contest",
+  "handle": "jayjonah8",
+  "address": "0x75aAfefc48D23C65F49603491630308DcBd468f5",
+  "risk": "G",
+  "title": "isContract() code is duplicated in multiple files ",
+  "issueId": 48,
+  "issueUrl": "https://github.com/code-423n4/2021-12-nftx-findings/issues/48"
+}
