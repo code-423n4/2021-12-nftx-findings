@@ -1,0 +1,9 @@
+{
+  "contest": "NFTX contest",
+  "handle": "Ruhum",
+  "address": "0x1708bdfa333F81993A1eDcFEc6821a3Ec563eA06",
+  "risk": "3",
+  "title": "VaultManager is able to change vault features after minting has begun",
+  "issueId": 63,
+  "issueUrl": "https://github.com/code-423n4/2021-12-nftx-findings/issues/63"
+}
