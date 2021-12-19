@@ -1,0 +1,9 @@
+{
+  "contest": "NFTX contest",
+  "handle": "leastwood",
+  "address": "0xeD7DF3fA78052060e76b5E12e1f76Cef2BB65d26",
+  "risk": "3",
+  "title": "Dishonest Stakers Can Siphon Rewards From `xToken` Holders Through The `deposit` Function In `NFTXInventoryStaking`",
+  "issueId": 57,
+  "issueUrl": "https://github.com/code-423n4/2021-12-nftx-findings/issues/57"
+}
