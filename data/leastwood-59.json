@@ -1,0 +1,9 @@
+{
+  "contest": "NFTX contest",
+  "handle": "leastwood",
+  "address": "0xeD7DF3fA78052060e76b5E12e1f76Cef2BB65d26",
+  "risk": "1",
+  "title": "`NFTXMarketplaceZap` Does Not Validate `path` Argument",
+  "issueId": 59,
+  "issueUrl": "https://github.com/code-423n4/2021-12-nftx-findings/issues/59"
+}
