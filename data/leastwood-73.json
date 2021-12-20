@@ -1,0 +1,9 @@
+{
+  "contest": "NFTX contest",
+  "handle": "leastwood",
+  "address": "0xeD7DF3fA78052060e76b5E12e1f76Cef2BB65d26",
+  "risk": "1",
+  "title": "Rewards Cannot Be Claimed If LP Tokens Are Unstaked",
+  "issueId": 73,
+  "issueUrl": "https://github.com/code-423n4/2021-12-nftx-findings/issues/73"
+}
