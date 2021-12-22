@@ -1,0 +1,9 @@
+{
+  "contest": "NFTX contest",
+  "handle": "pedroais",
+  "address": "0x7b13eB3F49525DcF09c01DbBbd34Af8a4C8C83B5",
+  "risk": "G",
+  "title": "Using x!= 0 costs less gas than x>0 for uint",
+  "issueId": 215,
+  "issueUrl": "https://github.com/code-423n4/2021-12-nftx-findings/issues/215"
+}
