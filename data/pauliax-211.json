@@ -1,0 +1,9 @@
+{
+  "contest": "NFTX contest",
+  "handle": "pauliax",
+  "address": "0x0c4243ca087F4e4738596F33292064e847DA80dA",
+  "risk": "2",
+  "title": "_sendForReceiver returns false when receiver is EOA",
+  "issueId": 211,
+  "issueUrl": "https://github.com/code-423n4/2021-12-nftx-findings/issues/211"
+}
