@@ -1,0 +1,9 @@
+{
+  "contest": "NFTX contest",
+  "handle": "hyh",
+  "address": "0x8efE50a4b8c8B64FDC93a5b1712Fd735d8223cD5",
+  "risk": "2",
+  "title": "NFTXStakingZap and NFTXMarketplaceZap's transferFromERC721 transfer Cryptokitties to the wrong address",
+  "issueId": 185,
+  "issueUrl": "https://github.com/code-423n4/2021-12-nftx-findings/issues/185"
+}
