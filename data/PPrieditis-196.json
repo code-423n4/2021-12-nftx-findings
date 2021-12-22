@@ -1,0 +1,9 @@
+{
+  "contest": "NFTX contest",
+  "handle": "PPrieditis",
+  "address": "0x855eAb463C41F6Ba5DE353c462878D930d7895Ea",
+  "risk": "1",
+  "title": "NFTXVaultFactoryUpgradeable.sol function assignFees() does not have onlyOwner modifier",
+  "issueId": 196,
+  "issueUrl": "https://github.com/code-423n4/2021-12-nftx-findings/issues/196"
+}
