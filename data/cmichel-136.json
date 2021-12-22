@@ -1,0 +1,9 @@
+{
+  "contest": "NFTX contest",
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "2",
+  "title": "Rewards can be stolen",
+  "issueId": 136,
+  "issueUrl": "https://github.com/code-423n4/2021-12-nftx-findings/issues/136"
+}
