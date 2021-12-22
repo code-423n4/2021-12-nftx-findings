@@ -1,0 +1,9 @@
+{
+  "contest": "NFTX contest",
+  "handle": "pedroais",
+  "address": "0x7b13eB3F49525DcF09c01DbBbd34Af8a4C8C83B5",
+  "risk": "3",
+  "title": "Pool Manager can frontrun fees to 100% and use it to steal the value from users",
+  "issueId": 213,
+  "issueUrl": "https://github.com/code-423n4/2021-12-nftx-findings/issues/213"
+}
